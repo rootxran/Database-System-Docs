@@ -6,9 +6,6 @@ const config: DocsThemeConfig = {
   project: {
     link: 'https://github.com/rootxran/Database-System-Docs',
   },
-  chat: {
-    link: 'https://discord.com',
-  },
   footer: {
     text: 'Database System Docs',
   },
