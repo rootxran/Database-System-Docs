@@ -1,0 +1,15 @@
+{
+  "index": "Database",
+  "Database-Keys": "Database Keys",
+  "Database-Design": "Database Design",
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://twitter.com/rootxran",
+    "newWindow": true
+  }
+}
