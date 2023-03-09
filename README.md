@@ -1,5 +1,3 @@
-# Database System Docs
+# Database System Docs on Nextjs
 
 Database Design and Models
-
-![Database System Site]("https://db.rootxran.com/")
