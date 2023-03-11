@@ -1,6 +1,12 @@
 {
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
+  "/Data-Flow-Diagram/Level-0": "pages/Data-Flow-Diagram/Level-0.html",
+  "/Data-Flow-Diagram/Level-1": "pages/Data-Flow-Diagram/Level-1.html",
+  "/Database-Design/Context-Design": "pages/Database-Design/Context-Design.html",
+  "/Database-Keys": "pages/Database-Keys.html",
+  "/about": "pages/about.html",
+  "/": "pages/index.html",
   "/_document": "pages/_document.js",
-  "/Data-Flow-Diagram/Level-1": "pages/Data-Flow-Diagram/Level-1.js"
+  "/404": "pages/404.html"
 }

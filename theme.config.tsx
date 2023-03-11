@@ -9,6 +9,9 @@ const config: DocsThemeConfig = {
   footer: {
     text: 'Database System Docs',
   },
+  nextThemes: {
+    defaultTheme: 'dark'
+  }
 }
 
 export default config
