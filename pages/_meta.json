@@ -2,6 +2,7 @@
   "index": "Database",
   "Database-Keys": "Database Keys",
   "Database-Design": "Database Design",
+  "Database-Models": "Database Models",
   "about": {
     "title": "About",
     "type": "page"
