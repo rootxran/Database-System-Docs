@@ -3,6 +3,8 @@
   "Database-Keys": "Database Keys",
   "Database-Design": "Database Design",
   "Database-Models": "Database Models",
+  "ERD" : "ERD",
+  "Data-Dictionary" : "Data Dictionary",
   "about": {
     "title": "About",
     "type": "page"
